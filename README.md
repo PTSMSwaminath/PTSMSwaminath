@@ -23,12 +23,6 @@ DevSecOps Engineer passionate about AWS, Cloud Infrastructure, Automation, Secur
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<img src="https://raw.githubusercontent.com/PTSMSwaminath/PTSMSwaminath/snake-output/snake.svg" alt="Snake animation" />
-
----
-
 Thanks for visiting!
 
 <!--
