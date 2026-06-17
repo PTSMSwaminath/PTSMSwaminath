@@ -16,6 +16,18 @@ DevSecOps Engineer passionate about AWS, Cloud Infrastructure, Automation, Secur
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PTSMSwaminath&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PTSMSwaminath&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PTSMSwaminath&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=PTSMSwaminath&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
