@@ -3,7 +3,7 @@
 ### Associate Engineer @ Visiontek - Linkwell Systems Pvt Ltd  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ptsmswaminath/)
-[![Gmail](https://img.shields.io/badge/Email-ptsmswaminath@gmail.com-red?logo=gmail&style=flat)](mailto:ptsmswaminath@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Email-ptsmswaminath@gmail.com-red?logo=gmail&style=flat)](mailto:ptsmswaminath@gmail.com)
 
 ---
 
