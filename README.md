@@ -31,6 +31,10 @@ DevSecOps Engineer passionate about AWS, Cloud Infrastructure, Automation, Secur
 
 ---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PTSMSwaminath.PTSMSwaminath&"  />
+</div>
+
 Thanks for visiting!
 
 <!--
